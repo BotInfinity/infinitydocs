@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Pagina de Inicio](README.md)
+* [Server de Soporte](https://discord.gg/eTqTv2A)
 
