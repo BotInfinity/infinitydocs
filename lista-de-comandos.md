@@ -4,6 +4,8 @@ description: Lista de comandos del bot Infinity Bot
 
 # Lista de Comandos
 
+
+
 Aqui esta la lista de comandos, tratare de actualizarla lo más posible pero es posible que se me olvide
 
 Categorías:
