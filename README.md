@@ -13,6 +13,10 @@ Lista de paginas:
 
 {% page-ref page="lista-de-comandos.md" %}
 
+{% page-ref page="lista-de-cambios.md" %}
+
+{% page-ref page="por-hacer.md" %}
+
 
 
 Si necesitas ayuda únete al servidor de soporte

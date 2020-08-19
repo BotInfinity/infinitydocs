@@ -7,5 +7,5 @@ description: Estas son las cosas que hay que hacer para el bot
 * [x] ~~Comprar dominio~~
 * [ ] Hacer la página
 * [ ] Terminar sección interacción
-* [ ] No se
+* [ ] No se, puedes sugerir algo :\)
 
