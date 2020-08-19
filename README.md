@@ -8,6 +8,13 @@ Bienvenido a la documentación oficial de Infinity Bot!
 
 Si necesitas ayuda con el bot unete al servidor de discord
 
+Lista de paginas:  
+
+
+{% page-ref page="lista-de-comandos.md" %}
+
+
+
 Si necesitas ayuda únete al servidor de soporte
 
 
