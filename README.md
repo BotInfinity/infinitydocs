@@ -19,7 +19,9 @@ Lista de paginas:
 
 
 
-Si necesitas ayuda únete al servidor de soporte
+Si necesitas ayuda únete al servidor de soporte  
+
+O manda un correo a [contacto@botinfinity.xyz](mailto:contacto@botinfinity.xyz)
 
 
 
